@@ -1,6 +1,6 @@
 # crescent
 
-Period Tracker. A bare-bones React Native app (iOS only).
+Period Tracker. A bare-bones React Native app (iOS only), to learn how to use React Native for the next step of the app building.
 
 ## One-time setup (each Mac)
 
